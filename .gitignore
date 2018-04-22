@@ -1,0 +1,15 @@
+# System
+.DS_Store
+
+# Java artifacts
+*.class
+*.jar
+
+# Maven
+/target/
+/sg-contest-*/target/
+/sg-contest-*/*/target/
+
+# IntelliJ IDEA
+.idea
+*.iml
