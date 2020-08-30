@@ -5,10 +5,9 @@
 *.class
 *.jar
 
-# Maven
-/target/
-/sg-contest-*/target/
-/sg-contest-*/*/target/
+# Gradle
+.gradle
+build
 
 # IntelliJ IDEA
 .idea
